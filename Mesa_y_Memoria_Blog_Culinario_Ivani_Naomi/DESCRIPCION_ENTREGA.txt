@@ -1,0 +1,30 @@
+DESCRIPCIÓN PARA CLASSROOM
+
+Nombre del blog: Mesa y Memoria
+
+Enfoque temático:
+Mesa y Memoria es un blog culinario que analiza la relación entre gastronomía, fiestas y fenómenos socioculturales. El contenido se organiza en tres categorías: Banquetes e Historia, Rituales Festivos y Excesos y Desperdicio. Cada sección combina una reflexión sobre el significado social de la comida con una receta detallada.
+
+Integrantes:
+- Ivani
+- Naomi
+
+Pasos seguidos:
+1. Se definió el concepto visual y el nombre del blog.
+2. Se diseñó una navegación independiente con Inicio, Categorías y Acerca de nosotros.
+3. Se crearon exactamente tres categorías principales.
+4. Se redactó una publicación original para cada categoría.
+5. Se incorporó una receta paso a paso en cada categoría.
+6. Se añadieron imágenes gastronómicas de alta calidad.
+7. Se desarrolló el sitio con HTML5, CSS3 y JavaScript.
+8. Se separaron las secciones en páginas HTML independientes para facilitar la navegación.
+9. Se implementó un menú adaptable para teléfonos móviles.
+10. Se revisaron los enlaces internos, la legibilidad y la adaptación a diferentes tamaños de pantalla.
+11. El proyecto queda listo para publicarse en un servicio de hosting estático y obtener la URL pública que se entregará en Classroom.
+
+Estructura:
+- index.html → Inicio
+- categorias.html → Las tres categorías y sus recetas
+- nosotros.html → Visión, misión e integrantes
+- styles.css → Diseño
+- script.js → Menú móvil e interacción
